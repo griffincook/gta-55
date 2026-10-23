@@ -1,0 +1,7 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {compassDirection,compassStep} from '../src/compass.js';
+const roads=[{a:[0,-10000],b:[0,10000],width:10000}];
+test('compass input ignores facing in both travel modes and supports all four directions',()=>{for(const walking of [true,false])for(const [key,x,z]of [['north',0,-1],['south',0,1],['west',-1,0],['east',1,0]]){const body={x:0,z:0,yaw:1.7,speed:0};compassStep(body,{[key]:true},.1,roads,walking);assert.equal(Math.sign(body.x),x);assert.equal(Math.sign(body.z),z);assert.equal(body.yaw,Math.atan2(x,z));}});
+test('diagonal travel is normalized and opposing inputs cancel',()=>{const d=compassDirection({north:true,east:true});assert(Math.abs(Math.hypot(d.x,d.z)-1)<1e-9);assert(d.x>0&&d.z<0);assert.deepEqual(compassDirection({north:true,south:true}),{x:0,z:0,moving:false});});
+test('releasing directions stops immediately without drifting',()=>{const body={x:0,z:0,yaw:0,speed:38};compassStep(body,{},.1,roads);assert.equal(body.speed,0);assert.equal(body.x,0);assert.equal(body.z,0);});
+
+test('driving speed and acceleration are identical on and off the road',()=>{const street=[{a:[0,-1000],b:[0,1000],width:8}],on={x:0,z:0,yaw:0,speed:0},off={x:100,z:0,yaw:0,speed:0};for(let i=0;i<180;i++){compassStep(on,{south:true},1/180,street);compassStep(off,{south:true},1/180,street);}assert.equal(on.speed,38);assert.equal(off.speed,on.speed);assert.equal(off.z,on.z);});

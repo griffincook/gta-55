@@ -1,0 +1,1 @@
+{"name":"uxbridge-last-listing","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build --base=./","preview":"vite preview --host 0.0.0.0","test":"node --test tools/*.test.mjs","fetch-map":"node tools/fetch-map.mjs"},"devDependencies":{"vite":"6.4.5"},"engines":{"node":">=20.19.0"},"dependencies":{"@iguide/viewer":"1.0.3"}}

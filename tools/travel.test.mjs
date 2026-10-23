@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {remainingDistance,travelEstimate} from '../src/travel.js';
+test('distance follows route bends and remaining ride-along waypoints',()=>{const path=[[0,0],[0,300],[400,300]];assert.equal(remainingDistance([0,100],path),600);assert.equal(remainingDistance([200,300],path,2),200);});
+test('ETA uses real-world travel pace independent of accelerated game speed',()=>{assert.equal(travelEstimate(3000,'drive'),'~6 min drive · real-world estimate');assert.equal(travelEstimate(500,'walk'),'~6 min walk · real-world estimate');assert.equal(travelEstimate(10,'drive'),'At your destination');});

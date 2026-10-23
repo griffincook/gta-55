@@ -1,0 +1,142 @@
+{
+  "coffee": {
+    "note": "May 2024. Books + Coffee frontage; shared panorama with neighbouring Blue Heron Books.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704508154!6m8!1m7!1s1mFX1h5uaXIh0aQvExxlnQ!2m2!1d44.10866775933757!2d-79.12338942859796!3f165!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=1mFX1h5uaXIh0aQvExxlnQ&heading=165",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "books": {
+    "note": "May 2024. Books + Coffee frontage; shared panorama with neighbouring Blue Heron Books.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704508154!6m8!1m7!1s1mFX1h5uaXIh0aQvExxlnQ!2m2!1d44.10866775933757!2d-79.12338942859796!3f165!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=1mFX1h5uaXIh0aQvExxlnQ&heading=165",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "roxy": {
+    "note": "Brock Street frontage, May 2024.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704542187!6m8!1m7!1sDYAvfPh6DOlQoy875N4uzw!2m2!1d44.10899955145441!2d-79.12233374195603!3f165!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=DYAvfPh6DOlQoy875N4uzw&heading=165",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "library": {
+    "note": "Library exterior from Toronto Street South, May 2024.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704552905!6m8!1m7!1s4T9l-_BTe3yoo9-jtu_Ufg!2m2!1d44.10856053371045!2d-79.12271332183803!3f75!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=4T9l-_BTe3yoo9-jtu_Ufg&heading=75",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "bakery": {
+    "note": "Little Thief appears on the right of the Brock Street view, May 2024.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704580473!6m8!1m7!1s_kMDFlWEhYNW3nf7bf0sJA!2m2!1d44.10925086726031!2d-79.12098073325639!3f165!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=_kMDFlWEhYNW3nf7bf0sJA&heading=165",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "sundays": {
+    "note": "Brock Street West frontage, May 2024. This historical imagery may predate the current restaurant and signage.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704589090!6m8!1m7!1sZBamcNxefqFs4yzpNklb3g!2m2!1d44.10870463941122!2d-79.12322548521105!3f165!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=ZBamcNxefqFs4yzpNklb3g&heading=165",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "trail": {
+    "note": "Centennial Park from Centennial Drive, May 2024. Roadside view near the Historic Trail, not a walk along the trail.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704614492!6m8!1m7!1sC0KecHaWJxvTGkzYqGqsRA!2m2!1d44.10730800664365!2d-79.12226516585577!3f90!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=C0KecHaWJxvTGkzYqGqsRA&heading=90",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "elgin": {
+    "note": "Elgin Park entrance and trees from Main Street South, May 2024. This is a roadside panorama, not a walk inside the park.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704681338!6m8!1m7!1sjYX-5pPEKDV4r3C2aDAUIw!2m2!1d44.101296436984!2d-79.11676659740355!3f270!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=jYX-5pPEKDV4r3C2aDAUIw&heading=270",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "secondary": {
+    "note": "School frontage from Planks Lane, May 2024.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704698603!6m8!1m7!1s3dXqkpunvsj72-Q_LBazag!2m2!1d44.10925161221297!2d-79.11247085401985!3f0!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=3dXqkpunvsj72-Q_LBazag&heading=0",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "elementary": {
+    "note": "Joseph Gould school entrance from Planks Lane, May 2024.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704725037!6m8!1m7!1s3dXqkpunvsj72-Q_LBazag!2m2!1d44.10925161221297!2d-79.11247085401985!3f180!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=3dXqkpunvsj72-Q_LBazag&heading=180",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "uxbridgeps": {
+    "note": "Uxbridge Public School grounds from Victoria Drive, September 2014. Older imagery; current appearance may differ.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792704747822!6m8!1m7!1s30Y7VaAp2h9kFXBy4LjyUw!2m2!1d44.10544868849764!2d-79.12519063349747!3f270!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=30Y7VaAp2h9kFXBy4LjyUw&heading=270",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL"
+  },
+  "brewery": {
+    "note": "November 2023. Contributed 360\u00b0 panorama at The Second Wedge, by Maggie at Proper Measure Ontario Central. Drag to look around.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792721156813!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREZwcWVNVHc.!2m2!1d44.1094005325846!2d-79.12639411709024!3f0!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=CAoSFkNJSE0wb2dLRUlDQWdJREZwcWVNVHc.&heading=0",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; initial heading aimed toward stop"
+  },
+  "dogwalk": {
+    "src": "https://www.google.com/maps/embed?pb=!4v1792722233711!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQ2FuSzZUYlE.!2m2!1d44.08651381851089!2d-79.12803046852099!3f0!4f0!5f0.4000000000000002",
+    "note": "July 2021. Nature panorama inside Countryside Preserve, contributed by Dennis Rankin. The linked nature video is a separate May 2023 contribution by Tina.",
+    "selectedAt": "2026-10-22",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=CIHM0ogKEICAgICanK6TbQ"
+  },
+  "slabtown": {
+    "note": "May 2024. Concession Road 6 beside Slabtown. Google labels this road panorama 4586 Concession 6; the cidery is at 4559.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792721216957!6m8!1m7!1sA987nofwhT1R1kxCUTALKw!2m2!1d44.06200838683544!2d-79.12667125213515!3f267!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=A987nofwhT1R1kxCUTALKw&heading=267",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; initial heading aimed toward stop"
+  },
+  "market": {
+    "note": "May 2024. King Street West beside the market / brewery grounds. This is the venue area, not a photograph of an active farmers\u2019 market.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792721235223!6m8!1m7!1ssChxQ8j-kTrfsJZRPRPTBg!2m2!1d44.10971549453863!2d-79.12684311508488!3f139!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=sChxQ8j-kTrfsJZRPRPTBg&heading=139",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; initial heading aimed toward stop"
+  },
+  "trailparking": {
+    "note": "May 2024. Countryside Preserve trailhead parking approach behind Walmart. The car stays at the owner-selected trailhead parking coordinates.",
+    "src": "https://www.google.com/maps/embed?pb=!4v1792721201241!6m8!1m7!1s1YsUpqitgqUMseTqtScmdA!2m2!1d44.08765792044402!2d-79.13176670589071!3f140!4f0!5f0.4000000000000002",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=1YsUpqitgqUMseTqtScmdA&heading=140",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; initial heading aimed toward stop"
+  },
+  "vinces": {
+    "src": "https://www.google.com/maps/embed?pb=!4v1792723946951!6m8!1m7!1sI2ALfMJEzFtMNaiST1bmxw!2m2!1d44.0972011!2d-79.1294737!3f211.29929109277478!4f-9.072590369612342!5f0.4000000000000002",
+    "note": "May 2024. Vince\u2019s Market storefront view selected by the owner; replaces the loading-area panorama.",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=I2ALfMJEzFtMNaiST1bmxw&heading=211.29929109277478&pitch=-9.072590369612342",
+    "provenance": "Owner-provided Google Maps panorama ID, coordinates and camera direction; existing Google-generated embed format"
+  },
+  "arena": {
+    "src": "https://www.google.com/maps/embed?pb=!4v1792725870989!6m8!1m7!1syo_qZGetYHI_0fxPku9UJA!2m2!1d44.10707159434434!2d-79.13368731525559!3f320!4f0!5f0.4000000000000002",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=yo_qZGetYHI_0fxPku9UJA&heading=320",
+    "selectedAt": "2026-10-22",
+    "note": "May 2024. Public-road approach beside Uxbridge Arena; not an interior rink view.",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; heading toward sports grounds"
+  },
+  "kennedy": {
+    "src": "https://www.google.com/maps/embed?pb=!4v1792726118848!6m8!1m7!1sQll5QM3xD4pEyr-XWV7-Qg!2m2!1d44.12478343132491!2d-79.12733216900706!3f90!4f0!5f0.4000000000000002",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Qll5QM3xD4pEyr-XWV7-Qg&heading=90",
+    "selectedAt": "2026-10-22",
+    "note": "May 2024. Main Street North / Regional Road 1 frontage at 335, beside Fields of Uxbridge. This shows the roadside approach, not the soccer pitches or pickleball courts.",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; heading toward sports grounds"
+  },
+  "meatmerchant": {
+    "src": "https://www.google.com/maps/embed?pb=!4v1792726609993!6m8!1m7!1sMRg0IOULeIYc1YJIgebbHQ!2m2!1d44.10928700041753!2d-79.12080756743029!3f351!4f0!5f0.4000000000000002",
+    "note": "May 2024. Brock Street West frontage near The Meat Merchant at number 3.",
+    "selectedAt": "2026-10-22",
+    "openUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=MRg0IOULeIYc1YJIgebbHQ&heading=351",
+    "provenance": "Google Maps \u00b7 Share \u2192 Embed a map \u00b7 supplied iframe URL; heading toward shop"
+  }
+}

@@ -1,0 +1,2 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {HOUSE_VIDEO_ID} from '../src/video.js';
+test('the owner-selected film is confined to the open-house player',()=>{assert.equal(HOUSE_VIDEO_ID,'yIKn-HoAlC4');const morning=fs.readFileSync(new URL('../src/morning.js',import.meta.url),'utf8');assert(!morning.includes('youtube'));const main=fs.readFileSync(new URL('../src/main.js',import.meta.url),'utf8');assert(!main.includes('youtubePanel'));assert(main.includes('open-house-video'));});

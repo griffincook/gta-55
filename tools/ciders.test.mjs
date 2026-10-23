@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {ciders,findCider,ciderItem} from '../src/ciders.js';
+test('all ten supplied cider options have stable unique selections',()=>{assert.equal(ciders.length,10);assert.equal(new Set(ciders.map(c=>c.id)).size,10);for(const c of ciders){assert.equal(findCider(c.id),c);assert(c.notes&&c.style&&c.abv);}assert.equal(findCider('fake'),null);assert.equal(findCider(0),null);});
+test('the selected bottle is used in the saved bag while old pickups retain a fallback',()=>{assert.equal(ciderItem({choices:{slabtown:'legendary-cherry'}}),'Legendary Cherry');assert.equal(ciderItem({choices:{slabtown:0}}),'A bottle of cider');});
